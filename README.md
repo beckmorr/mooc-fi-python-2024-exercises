@@ -1,7 +1,9 @@
 # mooc-fi-python-2024-exercises
 Solutions to most interesting Python exercises from the MOOC.fi 2024 course.
 
-This repository contains solutions to exercises from the MOOC.fi Python 2024 course. The course provides a comprehensive introduction to Python, covering a wide range of topics from basic programming concepts to advanced techniques. 
+# MOOC.fi Python 2024 - Exercises
+
+This repository contains selected solutions to exercises from the MOOC.fi Python 2024 course. The course provides a comprehensive introduction to Python, covering a wide range of topics from basic programming concepts to advanced techniques.
 
 ## Course Topics
 
@@ -16,9 +18,9 @@ This repository contains solutions to exercises from the MOOC.fi Python 2024 cou
 - **Advanced Topics**: List comprehensions, recursion, functional programming, and regular expressions.
 - **Pygame**: Introduction to game development with Pygame, creating animations, and handling events.
 
-## Structure
+## Repository Details
 
-Each section contains exercises and quizzes that reflect the topics covered in the course. Solutions are organized by part and exercise number.
+This repository does not contain all the exercises from the course. Instead, it includes a selection of the most interesting exercises. Additionally, the input and output of the exercises will be translated into Portuguese to assist Portuguese-speaking learners.
 
 ## Getting Started
 
@@ -27,3 +29,4 @@ To explore the exercises:
 1. Clone this repository:
    ```bash
    git clone https://github.com/beckmorr/mooc-fi-python-2024-exercises.git
+
