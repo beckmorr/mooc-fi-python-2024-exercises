@@ -1,6 +1,3 @@
-# mooc-fi-python-2024-exercises
-Solutions to most interesting Python exercises from the MOOC.fi 2024 course.
-
 # MOOC.fi Python 2024 - Exercises
 
 This repository contains selected solutions to exercises from the MOOC.fi Python 2024 course. The course provides a comprehensive introduction to Python, covering a wide range of topics from basic programming concepts to advanced techniques.
