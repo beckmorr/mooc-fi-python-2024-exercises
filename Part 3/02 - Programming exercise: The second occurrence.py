@@ -16,6 +16,7 @@
 #Por favor, digite uma substring: ba
 #A substring não ocorre duas vezes na string.
 
+# Solução
 string = input("Por favor, digite uma string: ")
 substring = input("Por favor, digite uma substring: ")
 

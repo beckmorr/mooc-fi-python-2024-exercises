@@ -21,7 +21,7 @@
 #Lembre-se de que o slice em Python usa a notação [start:end], onde o start é o índice inicial incluído e o end é o índice final, não incluído.
 #Itere sobre a string procurando pelo caractere inicial especificado e extraia as substrings de 3 caracteres a partir de cada ocorrência.
 
-
+# Solução
 input_string = str(input("Palavra: "))
 character = str(input("Caractere: "))
 

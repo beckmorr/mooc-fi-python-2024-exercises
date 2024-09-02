@@ -9,6 +9,7 @@
 #este
 #teste
 
+# Solução
 input_string = str(input("Por favor, digite uma string: "))
 word = ""
 index = 0
