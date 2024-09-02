@@ -1,6 +1,7 @@
 #Por favor, escreva um programa que peça ao usuário para digitar uma string. 
 #O programa então imprime todas as substrings que terminam com o último caractere, do tamanho mais curto para o mais longo.
 #Veja o exemplo abaixo.
+#
 #Saída de exemplo:
 #Por favor, digite uma string: teste
 #e
@@ -8,7 +9,7 @@
 #ste
 #este
 #teste
-
+#
 # Solução
 input_string = str(input("Por favor, digite uma string: "))
 word = ""

@@ -1,0 +1,34 @@
+# Escreva uma função chamada squared, que recebe uma string e um número inteiro como argumentos,
+# e imprime um quadrado de caracteres conforme especificado pelos exemplos abaixo.
+#
+# Exemplo de uso:
+#
+# squared("ab", 3)
+#
+# Deve imprimir:
+# aba
+# bab
+# aba
+#
+# squared("aybabtu", 5)
+#
+# Deve imprimir:
+# aybab
+# tuayb
+# abtua
+# ybabt
+# uyaba
+
+# Solução:
+def squared(string, n):
+    length = len(string)
+    for i in range(n):
+        for j in range(n):
+            print(string[(i+j) % length], end="")
+            if j == n-1:
+                print()
+
+if __name__ == '__main__':
+    squared("ab", 3)
+    print()
+    squared("aybabtu", 5)

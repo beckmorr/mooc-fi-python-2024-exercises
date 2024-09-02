@@ -3,19 +3,22 @@
 #Se não houver uma segunda (ou primeira) ocorrência, o programa deve imprimir uma mensagem apropriada.
 #Neste exercício, as ocorrências não podem se sobrepor. Por exemplo, na string "aaaa", a segunda ocorrência da substring "aa" está no índice 2.
 #Alguns exemplos de comportamento esperado:
+#
 #Exemplo de Saída
 #Por favor, digite uma string: abcabc
 #Por favor, digite uma substring: ab
 #A segunda ocorrência da substring está no índice 3.
+#
 #Exemplo de Saída
 #Por favor, digite uma string: methodology
 #Por favor, digite uma substring: o
 #A segunda ocorrência da substring está no índice 6.
+#
 #Exemplo de Saída
 #Por favor, digite uma string: aybabtu
 #Por favor, digite uma substring: ba
 #A substring não ocorre duas vezes na string.
-
+#
 # Solução
 string = input("Por favor, digite uma string: ")
 substring = input("Por favor, digite uma substring: ")
