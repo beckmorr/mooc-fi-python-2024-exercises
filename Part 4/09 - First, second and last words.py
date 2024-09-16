@@ -9,6 +9,7 @@
 # Dica: Para a última palavra, uma abordagem eficiente seria iterar pela string começando do fim, parando ao encontrar
 # o primeiro espaço.
 
+# Solução
 # Function that returns the first word in the string, stopping at the first space (" ")
 def first_word(string):
     first = ""
